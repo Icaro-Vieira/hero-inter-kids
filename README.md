@@ -1,12 +1,12 @@
 # Hero Inter Kids
 
-Landing page estática inspirada no layout do Inter Kids, com HTML e CSS puro.
+Landing page estatica inspirada no layout do Inter Kids, com HTML e CSS puro.
 
 ## Estrutura
 
-- `index.html`: página principal
-- `assets/css`: estilos da página
+- `index.html`: pagina principal
+- `assets/css`: estilos da pagina
 - `assets/fonts`: fonte usada no layout
 - `assets/brand`: logos
-- `assets/icons`: ícones SVG
+- `assets/icons`: icones SVG
 - `assets/images`: imagens principais
